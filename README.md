@@ -1,18 +1,10 @@
 # ai-ops-notebooklm-knowledge-base
 Case study: building an AI knowledge assistant with NotebookLM to streamline internal workflows, centralise product information, and improve operational efficiency.
 
-## 📚 Table of Contents
-- [1. Problem](#1-problem)
-- [2. Solution](#2-solution)
-- [3. Workflow & Tools](#3-workflow--tools)
-- [4. Impact & Next Steps](#4-impact--next-steps)
-- [AI Workflow Diagram](#ai-workflow-diagram)
-
-
 ___
 ## 🔍 1. Problem
 
-My employer is a global organisation with thousands of employees and a portfolio full of constantly evolving products and promotions. As a Deal Hub Associate, it’s essential to stay on top of product knowledge — yet the reality is that this information lives in dozens of PDFs, price guides, and webpages across out intranet.
+My employer is a global organisation with thousands of employees and a portfolio full of constantly evolving products and promotions. As a Deal Hub Associate, it’s essential to stay on top of product knowledge — yet the reality is that this information lives in dozens of PDFs, price guides, and webpages across our intranet.
 
 The volume alone is daunting. The *fragmentation* is worse. The sales and operations teams lose time hunting for accurate answers, and there’s no single source of truth anyone can rely on at speed.
 ___
@@ -29,15 +21,19 @@ This has replaced:
 * Multi-minute searches
 * Repetitive internal questions
 * Manual cross-referencing of webpages
+
 With:
+
 * Instant answers
 * Consistent product information
 * A central knowledge assistant accessible anytime
 ___
 ## 📈 4. Impact & Next Steps
 
-I delivered a presentation on my notebooks to the EMEA Deal Hub team. The most satisfying comment was: 
+I delivered a presentation on my notebooks to the EMEA Deal Hub team. The most satisfying comment was:
+
 "Are you trying to put us out of a job?"
+
 I don't expect to be made redundant by the notebooks;  I now access consistent product information far faster, and the number of questions on product knowledge has dropped substantially.
 
 NotebookLM has transformed the way I work. I have given my team a centralised, conversational interface instead of navigating 100+ hyperlinks. 
